@@ -1,4 +1,6 @@
-﻿using System;
+﻿//Варіант 8
+
+using System;
 
 class Program
 {
@@ -26,4 +28,5 @@ class Program
             Console.WriteLine("Помилка: ділення на 0 неможливе!");
         }
     }
+
 }
